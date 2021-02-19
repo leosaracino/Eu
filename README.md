@@ -1,7 +1,5 @@
 # Hey there 👋
 
-<img align="right" src="https://github.com/casteluc/casteluc/blob/main/assets/computer-illustration.png" width="350"/>
-
 I' Leonardo, a Brazilian developer studying to improve my skills, I am 20 years old, and I have experience in python, ruby ​​on rials, java, c and flutter. You can contact me if you want to know more.😊
 
 - 🐺 I’m currently a employee of [IN Junior](https://injunior.com.br/).
