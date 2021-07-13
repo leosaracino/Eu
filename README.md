@@ -4,4 +4,5 @@
 
 I' Leonardo, a Brazilian developer studying to improve my skills, I am 20 years old, and I have experience in python, ruby ​​on rials, java, c and flutter. You can contact me if you want to know more.😊
 
-- 🐺 I’m currently a employee of [IN Junior](https://injunior.com.br/).
+- 🐺 I’m currently Commercial director of [IN Junior](https://injunior.com.br/), a junior enterprise at the Universidade Federal Fluminense, a place which I have a lot of appreciation for and where I have the opportunity to evolve myself both personally and technically.
+ 
