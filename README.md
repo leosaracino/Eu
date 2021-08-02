@@ -8,6 +8,14 @@ Olá sou Leonardo, um desenvolvedor brasileiro estudando para melhorar minhas sk
 
 - 🐺 Atualmente sou diretor comercial da [IN Junior](https://injunior.com.br/), uma empresa junior da Universidade Federal Fluminense, um lugar onde tenho muita apreciação e onde pude evoluir muito pessoalmente e proficionalmente.
 
+
+ <div> 
+  <a href="https://www.linkedin.com/in/leonardosaracino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/leosaracino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:leonardosaracino22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+ ##
  
    <div>
     <a href="https://github.com/leosaracino">
@@ -21,17 +29,9 @@ Olá sou Leonardo, um desenvolvedor brasileiro estudando para melhorar minhas sk
    <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg"/> 
    <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/> 
    <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
-    
-
-
- 
+  </div>
+  
  ##
-
-<div> 
-  <a href="https://www.linkedin.com/in/leonardosaracino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/leosaracino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:leonardosaracino22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
  
 ### EN:
  
