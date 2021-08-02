@@ -37,7 +37,7 @@ Olá sou Leonardo, um desenvolvedor brasileiro estudando para melhorar minhas sk
  
  I' Leonardo, a Brazilian developer studying to improve my skills, I am 20 years old, and I have experience in python, ruby ​​on rials, java, c and flutter. You can contact me if you want to know more.😊
 
-[My CV📃](https://www.figma.com/proto/UBQU3xFmArfSEv8uHDtg15/Curriculo-(Copy)?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1&hide-ui=1)
+[My CV📃](https://www.figma.com/proto/GWAlvrOgOqILY9PtEga07k/Curriculo-(Copy)-(Copy)?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1)
 
 - 🐺 I’m currently Commercial director of [IN Junior](https://injunior.com.br/), a junior enterprise at the Universidade Federal Fluminense, a place which I have a lot of appreciation for and where I have the opportunity to evolve myself both personally and technically.
 
