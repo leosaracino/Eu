@@ -2,7 +2,7 @@
 
 ### PT:
 
-Olá sou Leonardo, um desenvolvedor brasileiro estudando para melhorar minhas skills, tenho 20 anos, e tenho experiencia em python, ruby ​​on rials, java, c. 
+Olá sou Leonardo, um desenvolvedor brasileiro estudando para melhorar minhas skills, tenho 20 anos, e tenho experiencia em python, ruby ​​on rials, java, C. 
 
 [Meu currículo📃](https://www.figma.com/proto/UBQU3xFmArfSEv8uHDtg15/Curriculo-(Copy)?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1&hide-ui=1)
 
