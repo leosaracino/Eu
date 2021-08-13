@@ -16,7 +16,6 @@ Olá sou Leonardo, um desenvolvedor brasileiro estudando para melhorar minhas sk
 </div>
 
  ##
- 
 <!--  https://devicon.dev/ -->
   <div>
    <a href="https://github.com/leosaracino">
