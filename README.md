@@ -17,6 +17,7 @@ Olá sou Leonardo, um desenvolvedor brasileiro estudando para melhorar minhas sk
 
  ##
  
+<!--  https://devicon.dev/ -->
   <div>
    <a href="https://github.com/leosaracino">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leosaracino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
