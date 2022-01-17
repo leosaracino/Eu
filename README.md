@@ -8,7 +8,7 @@ Olá sou Leonardo, um desenvolvedor brasileiro estudando para melhorar minhas sk
 
 [Meu currículo📃](https://www.figma.com/proto/UBQU3xFmArfSEv8uHDtg15/Curriculo-(Copy)?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1&hide-ui=1)
 
-- 🐺 Atualmente sou diretor comercial da [IN Junior](https://injunior.com.br/), uma empresa junior da Universidade Federal Fluminense, um lugar onde tenho muita apreciação e onde pude evoluir muito pessoalmente e proficionalmente.
+- Atualmente sou Estagiário da IBM.
 
  ##
 <!--  https://devicon.dev/ -->
@@ -44,6 +44,5 @@ Olá sou Leonardo, um desenvolvedor brasileiro estudando para melhorar minhas sk
 
 [My CV📃](https://www.figma.com/proto/GWAlvrOgOqILY9PtEga07k/Curriculo-(Copy)-(Copy)?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1)
 
-- 🐺 I’m currently Commercial director of [IN Junior](https://injunior.com.br/), a junior enterprise at the Universidade Federal Fluminense, a place which I have a lot of appreciation for and where I have the opportunity to evolve myself both personally and technically.
-
+- I’m currently a IBM intern.
 
