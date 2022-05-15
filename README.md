@@ -4,7 +4,7 @@
 ### PT:
  
 
-Olá sou Leonardo, um desenvolvedor brasileiro estudando para melhorar minhas skills, tenho 20 anos, e tenho experiencia em python, ruby ​​on rials, java, C. 
+Olá sou Leonardo, um cientista de dados e desenvolvedor brasileiro estudando para melhorar minhas skills, tenho 21 anos, e tenho experiencia em python, ciência de dados, machine learning ruby e ​​on rials. 
 
 [Meu currículo📃](https://www.figma.com/proto/UBQU3xFmArfSEv8uHDtg15/Curriculo-(Copy)?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1&hide-ui=1)
 
@@ -40,7 +40,7 @@ Olá sou Leonardo, um desenvolvedor brasileiro estudando para melhorar minhas sk
  
 ### EN:
  
- I' Leonardo, a Brazilian developer studying to improve my skills, I am 20 years old, and I have experience in python, ruby ​​on rials, java, c and flutter. You can contact me if you want to know more.😊
+ I' Leonardo, a Brazilian data scientist and developer studying to improve my skills, I am 21 years old, and I have experience in python, data science, machine learning and ruby ​​on rials. You can contact me if you want to know more.😊
 
 [My CV📃](https://www.figma.com/proto/GWAlvrOgOqILY9PtEga07k/Curriculo-(Copy)-(Copy)?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1)
 
